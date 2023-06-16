@@ -1,5 +1,5 @@
 
-    window.dataLayer = window.dataLayer || [];
+    <scirpt>window.dataLayer = window.dataLayer || [];
     function gtag() {
         dataLayer.push(arguments);
     }
@@ -13,3 +13,4 @@
     });
     gtag("set", "ads_data_redaction", true);
     gtag("set", "url_passthrough", true);
+</scirpt>
